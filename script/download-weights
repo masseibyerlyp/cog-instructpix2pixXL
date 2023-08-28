@@ -6,7 +6,7 @@ import torch
 from diffusers import StableDiffusionPipeline
 
 
-MODEL_ID = "andite/pastel-mix"
+MODEL_ID = "sayakpaul/sdxl-instructpix2pix-1024"
 MODEL_CACHE = "diffusers-cache"
 
 if os.path.exists(MODEL_CACHE):
