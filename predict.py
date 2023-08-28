@@ -14,7 +14,7 @@ from diffusers import (
 from cog import BasePredictor, Input, Path
 
 
-MODEL_ID = "andite/pastel-mix"
+MODEL_ID = "sayakpaul/sdxl-instructpix2pix-1024"
 MODEL_CACHE = "diffusers-cache"
 
 
